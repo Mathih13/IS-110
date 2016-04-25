@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomTester()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ RandomTester\n
+comment1.params=
+comment1.target=void\ generateOneRandom()
+comment1.text=\n\ Generates\ one\ random\ number.\n
+comment2.params=howMany
+comment2.target=void\ generateOneRandom(int)
+comment2.text=\n\ Generates\ multiple\ random\ numbers.\n\ \n\ @param\ \ howMany\ \ \ how\ many\ numbers\ should\ be\ created.\n
+comment3.params=
+comment3.target=void\ printResult()
+comment3.text=\n\ Prints\ the\ current\ value\ of\ "output"\n
+comment4.params=
+comment4.target=int\ throwDice()
+comment4.text=\n\ Exercise\ 5.16\:\ Write\ a\ method\ in\ your\ class\ called\ throwDice\ \n\ that\ returns\ a\ random\ number\ between\ 1\ and\ 6\n\ \n\ We\ will\ make\ the\ method\ return\ the\ result.\ \n\ The\ return\ will\ not\ be\ used\ as\ of\ now.\n\ \n
+numComments=5
